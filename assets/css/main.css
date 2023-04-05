@@ -3128,6 +3128,7 @@ input, select, textarea {
 		}
 
 		.spotlight.right .content {
+            margin-top: 3.5em;
 			border-left-width: 0.35em;
 			right: 0;
 		}
@@ -3436,7 +3437,7 @@ input, select, textarea {
 	}
 
 	body.landing #header {
-		background: transparent;
+		background: black;
 		box-shadow: none;
 		position: absolute;
 	}
