@@ -3128,7 +3128,6 @@ input, select, textarea {
 		}
 
 		.spotlight.right .content {
-            margin-top: 3.5em;
 			border-left-width: 0.35em;
 			right: 0;
 		}
@@ -3369,7 +3368,7 @@ input, select, textarea {
 	}
 
 	#header {
-		background: rgba(39, 40, 51, 0.965);
+		background: black;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
 		cursor: default;
 		height: 3.5em;
